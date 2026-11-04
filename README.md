@@ -1,4 +1,4 @@
-# ⚡ Automatización Industrial | Lógica Cableada – Práctica 02
+# ⚡ Automatización Industrial | Lógica Cableada
 
 <img width="1412" height="886" alt="circuito cadesimu" src="https://github.com/user-attachments/assets/52319796-0b61-4dc4-8a68-5f708352142a" />
 
